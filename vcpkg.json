@@ -1,0 +1,9 @@
+{
+  "name": "wjt",
+  "version": "1.0",
+  "dependencies": [
+    "libpqxx",
+    "nlohmann-json"
+
+  ]
+}
